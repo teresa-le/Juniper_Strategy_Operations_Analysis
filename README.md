@@ -3,6 +3,9 @@
 ## Purpose
 The purpose of this analysis was to analyze the performance of Juniper's launch in NYC and how to improve its performance from a revenue perspective. Juniper is a quick-commerce food delivery service startup's performance.
 
+## Presentation 
+To view the complete presentation, please go to the following link: https://docs.google.com/presentation/d/1haD7JDEfmT4XP5b_Nh-x7NHV3eWUdpGoi8d4uFYzz2Q/edit?usp=drivesdk
+
 ## Actions
 To determine what problem we were trying to solve and help narrow our focus, we defined the inputs to our problem statement and created an issue tree. 
 
