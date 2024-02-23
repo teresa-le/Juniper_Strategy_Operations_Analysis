@@ -9,6 +9,11 @@ To view the complete presentation, please go to the following link: https://docs
 ## Actions
 To determine what problem we were trying to solve and help narrow our focus, we defined the inputs to our problem statement and created an issue tree. 
 
+We then used SQL and Tableau to derive insights that were relevant to helping us define and resolve our problem. 
+
+We determined our problem statement to be that Juniper shows significantly low revenue in Brooklyn & Queens and diminishing marginal revenue in Manhattan. 
+
+
 <img src="https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis/blob/main/Resources/Inputs%20to%20Problem%20Statement.PNG"> 
 
 <img src="https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis/blob/main/Resources/Issue%20Tree.PNG"> 
