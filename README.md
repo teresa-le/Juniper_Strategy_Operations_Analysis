@@ -6,6 +6,10 @@ The purpose of this analysis was to analyze the performance of Juniper's launch 
 ## Actions
 To determine what problem we were trying to solve and help narrow our focus, we defined the inputs to our problem statement and created an issue tree. 
 
+<img src="https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis/blob/main/Resources/Inputs%20to%20Problem%20Statement.PNG"> 
+
+<img src="https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis/blob/main/Resources/Issue%20Tree.PNG"> 
+
 ## Results
 <img src="https://github.com/teresa-le/Juniper_Strategy_Operations_Analysis/blob/main/Resources/Revenue%20Earned.png">
 
